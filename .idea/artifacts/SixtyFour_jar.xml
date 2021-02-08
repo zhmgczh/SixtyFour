@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SixtyFour:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SixtyFour_jar</output-path>
+    <root id="archive" name="SixtyFour.jar">
+      <element id="module-output" name="SixtyFour" />
+      <element id="file-copy" path="$PROJECT_DIR$/Taiji.jpg" />
+    </root>
+  </artifact>
+</component>
