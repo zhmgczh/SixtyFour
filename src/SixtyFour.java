@@ -55,7 +55,7 @@ class Panel extends JPanel
         {
             if(current_status[i]!=-1)
             {
-                graphics.setColor(current_status[i]==0?Color.WHITE:Color.BLACK);
+                graphics.setColor(current_status[i]==0?Color.BLACK:Color.WHITE);
                 graphics.fillOval(200+i*150,200,50,50);
             }
             graphics.setColor(Color.BLACK);
